@@ -1,8 +1,8 @@
 {
   "@context": "https://w3id.org/openbadges/v2",
-  "id": "https://gist.github.com/crossoveranx/fe25c197ab4213f9afbfa4e5b929028d/raw/",
+  "id": "https://raw.githubusercontent.com/bloxberg-org/issuer_json/master/revocation_list.json",
   "type": "RevocationList",
-  "issuer": "https://gist.github.com/crossoveranx/211facf3d94902841e866baf995c97e5/raw/",
+  "issuer": "https://raw.githubusercontent.com/bloxberg-org/issuer_json/master/issuer.json",
   "revokedAssertions": [
   ]
 }
